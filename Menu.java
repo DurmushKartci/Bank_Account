@@ -9,7 +9,12 @@ public class Menu {
     public static void introduce() {
         System.out.println(
                 "\n-------------------BANK ACCOUNT APPLİCATİON-------------------\nVersion       : 1.0\nAuthor        : Durmuş KARTCI\nDescription   : With this application, users can follow \n   the exchange rate, learn everything about bank accounts,\n   transfer money and much more.\n--------------------------------------------------------------");
-
+                try {
+                    Thread.sleep(6000);
+                } catch (InterruptedException e) {
+                    System.out.println("ERROR ID : 0000 in Menu.java");
+                }
+                
     }
 
     // With this method users can log in or register

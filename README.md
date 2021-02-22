@@ -3,7 +3,8 @@ With this application, users can follow the exchange rate, learn everything abou
 
 ## Author
 ```
-Name    : Durmuş Kartcı
-Github  : DurmushKartci
-Mail    : durmusikartci@gmail.com
+Name            : Durmuş Kartcı
+Github          : DurmushKartci
+Mail            : durmusikartci@gmail.com
+Phone Number    : 0 552 275 51 39
 ```
